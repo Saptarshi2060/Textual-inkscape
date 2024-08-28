@@ -5,7 +5,7 @@ import pdfplumber  # Install with: pip install pdfplumber
 from tkinter import filedialog, Tk
 
 # Define the font path (absolute path to the .ttf file)
-font_path = r"C:\Users\User\Downloads\text_to_handwriting\QEDavidReidCAP.ttf"
+font_path = r"file-path"
 font_size = 48  # You can adjust the size based on your preference
 
 # Check if the font file exists
